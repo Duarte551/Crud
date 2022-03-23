@@ -1,0 +1,81 @@
+body{
+  background-color: rgb(253, 165, 0);
+  font-family: 'Ubuntu Condensed', sans-serif;
+}
+header{
+position: fixed; top: 0; left: 0; right: 0; 
+font-family: 'Ubuntu Condensed', sans-serif;
+background-color: blue;
+
+}
+/* Style The Dropdown Button */
+.dropbtn {
+  font-family: 'Ubuntu Condensed', sans-serif;
+  background-color: #000000;
+  color: rgb(255, 255, 255);
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  font-family: 'Ubuntu Condensed', sans-serif;
+  position: relative;
+  display: inline-block;
+  border: black;
+  background-color:black;
+  
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  font-family: 'Ubuntu Condensed', sans-serif;
+  display: none;
+  position: absolute;
+  background-color: #0a0a0a;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  font-family: 'Ubuntu Condensed', sans-serif;
+  color: rgb(255, 255, 255);
+  padding: 6px 8px;
+  text-decoration: none;
+  display: block;
+  background-color:black;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #00f5e0}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+  background-color: #f10000;
+}
+
+footer{
+font-family: 'Ubuntu Condensed', sans-serif;
+text-align: center;
+position: fixed; bottom: 0; left: 0; right: 0;
+left: 0;
+right: 0;
+background-color: black;
+}
+
+small{
+  color: white
+}
+
+div{
+background-color: black
+}

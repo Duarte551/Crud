@@ -1,0 +1,90 @@
+body{
+position: center;
+
+}
+
+div{
+text-align: center;
+}
+
+header{
+    text-align: center;
+}
+
+#teste{
+    padding: 2%;
+    text-align: center;
+    background-color: rgb(70, 156, 172);
+    border-radius: 10%;
+    margin: 200px;
+    padding-bottom: 10px;
+    margin-left: 50%;
+    
+  }
+
+  #cachorro{
+
+    padding: 15%;
+    text-align: center;
+   
+  }
+  #cara{    
+      
+      color: white;
+  }
+  #form{
+    float: right;
+    padding: 20px;
+    background-color: #333;
+    width: 30%;
+    color: rgb(255, 255, 255); 
+  }
+  #carinha{ 
+    float: right;    
+    padding: 20%;
+    background-color: #333;
+    width: 50%;
+    color: rgb(255, 255, 255); 
+  }
+  #corpo{ background-color: #d6d6d6}
+  #form{
+    text-align:inline
+  }
+  ul {
+    font-family: 'Ubuntu Condensed', sans-serif;
+    display:flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    justify-content: space-between;
+  }
+  
+  li {
+    display: block;
+    float: left; 
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Ubuntu Condensed', sans-serif;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: top;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Ubuntu Condensed', sans-serif;
+  }
+  #start{
+    position: fixed; top: 0; left: 0; right: 0;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    background: rgb(0, 163, 136);
+  
+  }
+  #ca{
+    width : 15%
+
+  }  
+  

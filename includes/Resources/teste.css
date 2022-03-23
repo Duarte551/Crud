@@ -1,0 +1,116 @@
+body{
+    font-family: 'Ubuntu Condensed', sans-serif;
+    background: rgb(0, 0, 0);
+   color :rgb(255, 255, 255) ;
+}
+
+header {
+    
+    font-family: 'Ubuntu Condensed', sans-serif;
+    background: rgb(0, 163, 136);
+    text-align: right 0;
+}
+
+h2 {
+    font-family: 'Ubuntu Condensed', sans-serif;
+    color :rgb(255, 255, 255);
+    text-shadow: 1.15px 1.15px;
+}
+
+p{  font-family: 'Ubuntu Condensed', sans-serif;
+    text-align: center;
+    color:rgb(252, 252, 252);
+    text-shadow: 2px 2px 5px rgb(0, 183, 255);
+}
+
+ul {
+    font-family: 'Ubuntu Condensed', sans-serif;
+    display:flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    justify-content: space-between;
+  }
+  
+li {
+    display: block;
+    float: left; 
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Ubuntu Condensed', sans-serif;
+  }
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Ubuntu Condensed', sans-serif;
+  }
+  
+li a:hover {
+    background-color: rgb(116, 1, 1);}
+
+li{font-family: 'Ubuntu Condensed', sans-serif;
+      display: block
+    }
+
+img{
+      width: 10%;
+    }
+
+footer{
+      font-family: 'Ubuntu Condensed', sans-serif;
+      text-align: center;
+      position: fixed; bottom: 0; left: 0; right: 0;
+      left: 0;
+      right: 0;
+      background-color: #333;
+      }
+      
+small{
+        font-family: 'Ubuntu Condensed', sans-serif;
+        color: white
+      }
+      
+a{ font-family: 'Ubuntu Condensed', sans-serif; 
+        color:rgb(245, 0, 204);}
+    
+#teste{ position: relative; font-size: 20px; font-weight: bold;
+        padding-top: 2%;
+        text-align: center;
+        background-color: rgb(70, 156, 172);
+        border-radius: 5%;
+        margin: 500px;
+        padding-bottom: 10px;
+      }
+
+img{    
+        width: 15%;
+      }
+
+.indicação{
+  color: rgb(255, 255, 255);
+  background-color: rgb(116, 1, 1);
+}
+
+label{
+  font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+input{  font-family: 'Ubuntu Condensed', sans-serif;}
+
+h1{ font-family: 'Ubuntu Condensed', sans-serif;}
+
+#form{ 
+float: right; 
+
+}
+
+#start{ 
+background-color: rgb(0, 0, 0);
+
+}
