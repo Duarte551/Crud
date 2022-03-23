@@ -1,1 +1,1 @@
-<?php
+Vai se fuder trouxa
